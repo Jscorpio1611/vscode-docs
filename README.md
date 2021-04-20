@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/microsoft/vscode-docs)
+
 <p align="center">
   <img alt="vscode logo" src="images/logo-stable.png" width="100px" />
   <h1 align="center">Visual Studio Code Documentation</h1>
